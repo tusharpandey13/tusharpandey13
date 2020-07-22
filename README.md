@@ -2,12 +2,7 @@
 
 <!-- [![Header](https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg)]() -->
 
-<img src="./header.svg">
-
-<style>
-.red {color: red}
-</style>
-<p class="red">red text</p>
+<img src="https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg">
 
 <!--
 **tusharpandey13/tusharpandey13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
