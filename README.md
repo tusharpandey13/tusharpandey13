@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Header](https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg)](#)
+[![Header](https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg)]()
 
 <!-- <img src="./header.svg"> -->
 
