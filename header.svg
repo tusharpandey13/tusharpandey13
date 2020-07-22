@@ -57,7 +57,7 @@
 				    color: transparent;
 				  }
 				  to {
-				  
+    			
 				    color: #012a36;
 				  }
 				}
@@ -145,14 +145,7 @@
     				animation-delay: 0.5s, 0.5s, 1.5s, 3s;
     				animation-fill-mode: forwards, forwards, forwards, forwards;
     				transform-origin: left;
-					-webkit-touch-callout: none;
-					-webkit-user-select: none;
-					-khtml-user-select: none;
-					-moz-user-select: none;
-					-ms-user-select: none;
-					user-select: none;
 					border-radius: 5px;
-
 				}
 				.bigtext span {
     				display: flex;
@@ -198,7 +191,7 @@
 					font-family: monospace;
 					font-style: italic;
 					color: rgba(255,255,255,0.7);
-					font-size: 0.85rem;
+					font-size: 1rem;
 					position:absolute;
 					bottom: 0;
 					text-align: center;
