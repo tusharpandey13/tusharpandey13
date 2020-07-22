@@ -84,27 +84,13 @@
 				}
 
 				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					justify-content: center;
-					align-items: center;
 					margin: 0;
 					width: 100%;
 					height: 400px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
-					border-radius: 6px;
+					border-radius: 5px;
 					color: white;
 					text-align: center;
 				}
@@ -127,6 +113,15 @@
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
+				}
+
+				.bigtext-C{
+					display: flex;
+					flex-direction: column;
+					justify-content: flex-start;
+					align-items: center;
+					/* background-color: #012a36; */
+					height: 100%;
 				}
 
 				.bigtext{
@@ -190,17 +185,42 @@
       				animation-delay: 2s;
       				animation-fill-mode: forwards;
 					border-radius: 5px;
-
 				}
-
-
+				.footer{
+					display: flex;
+					flex-direction: column;
+					justify-content: flex-end;
+					align-items: center;
+					margin: 0rem 0 0.5rem 0;
+					font-family: monospace;
+					font-style: italic;
+					color: rgba(255,255,255,0.5);
+					font-size: 0.75rem;
+					height: calc(50vh - 1.5rem);
+				}
+				.list-C span{
+					margin: 0.5rem 0 0.5rem 0;
+				}
+				.cleartop {
+					height: calc(50vh - 1.5rem);
+					min-height: 2.5rem;
+				}
 
 			</style>
 			<div class="container">
 				<div class="bigtext-C">
+					<div class="cleartop">
+					</div>
+
 					<div class="bigtext">
 						<span>TUSHAR PANDEY</span>
 					</div>
+					
+					<div class="footer">
+					<span>Completely made using css :D</span>
+					</div>
+					
+
 				</div>
 				
 				<!-- <h1> Tushar</h1> -->
