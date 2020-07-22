@@ -84,6 +84,10 @@
 				}
 
 				.container {
+					display: flex;
+					flex-direction: column;
+					justify-content: flex-start;
+					align-items: center;
 					margin: 0;
 					width: 100%;
 					height: 400px;
@@ -115,14 +119,13 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 
-				.bigtext-C{
+				/* .bigtext-C{
 					display: flex;
 					flex-direction: column;
 					justify-content: flex-start;
 					align-items: center;
-					/* background-color: #012a36; */
 					height: 100%;
-				}
+				} */
 
 				.bigtext{
 					position: relative;
@@ -188,15 +191,19 @@
 				}
 				.footer{
 					display: flex;
-					flex-direction: column;
-					justify-content: flex-end;
+					flex-direction: row;
+					justify-content: center;
 					align-items: center;
-					margin: 0rem 0 0.5rem 0;
+					margin: 0 0 0.5rem 0;
 					font-family: monospace;
 					font-style: italic;
-					color: rgba(255,255,255,0.5);
+					color: rgba(255,255,255,0.7);
 					font-size: 0.75rem;
-					height: calc(50vh - 1.5rem);
+					position:absolute;
+					bottom: 0;
+					text-align: center;
+					width: 25.5rem;
+					/* background-color: #012a3677; */
 				}
 				.list-C span{
 					margin: 0.5rem 0 0.5rem 0;
@@ -215,14 +222,10 @@
 					<div class="bigtext">
 						<span>TUSHAR PANDEY</span>
 					</div>
-					
-					<div class="footer">
-					<span>Completely made using css :D</span>
-					</div>
-					
-
 				</div>
-				
+				<div class="footer">
+					<span>Completely made using css :D</span>
+				</div>
 				<!-- <h1> Tushar</h1> -->
 			</div>
 	
