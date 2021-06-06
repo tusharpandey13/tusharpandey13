@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Header](https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg)](https://github.com/tusharpandey13/tusharpandey13)
+[![Header](https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/e2106c44d5f48119207d7d4f37013c1df363b725/header.svg)](https://github.com/tusharpandey13/tusharpandey13/blob/master/unminified.svg?short_path=78bcc09)
 
 <!-- <img src="./header.svg"> -->
 
