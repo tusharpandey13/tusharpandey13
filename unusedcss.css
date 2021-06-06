@@ -1,0 +1,42 @@
+@keyframes shadow1 {
+  0% {
+    font-size: 10px;
+  }
+  30% {
+    font-size: 15px;
+  }
+  100% {
+    font-size: 12px;
+  }
+}
+@keyframes slide_up {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(calc(-50vw + 100% / 2 + 3rem));
+  }
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 1.3;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-shadow: 0 1px 0 #efefef, 0 2px 0 #efefef, 0 3px 0 #efefef, 0 4px 0 #efefef,
+    0 12px 5px rgba(0, 0, 0, 0.1);
+  animation: rotate ease-in-out 1s infinite alternate;
+}
+
+p {
+  font-size: 20px;
+  text-shadow: 0 1px 0 #efefef;
+  animation: 5s ease 0s normal forwards 1 fadeIn;
+}
+.list-C span {
+  margin: 0.5rem 0 0.5rem 0;
+}
+.cleartop {
+  height: calc(50vh - 1.5rem);
+  min-height: 2.5rem;
+}
