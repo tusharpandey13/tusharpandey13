@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-
+<!--
 [![Header](https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg)](https://github.com/tusharpandey13/tusharpandey13/blob/master/unminified.svg?short_path=78bcc09)
-
+ -->
 <!-- <img src="./header.svg"> -->
 
 <!--
