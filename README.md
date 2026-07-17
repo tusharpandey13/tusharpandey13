@@ -1,20 +1,21 @@
-<!-- ### Hi there 👋 -->
-<!--
-[![Header](https://raw.githubusercontent.com/tusharpandey13/tusharpandey13/master/header.svg)](https://github.com/tusharpandey13/tusharpandey13/blob/master/unminified.svg?short_path=78bcc09)
- -->
-<!-- <img src="./header.svg"> -->
+### Tushar Pandey
 
-<!--
-**tusharpandey13/tusharpandey13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer.   
+I build large scale systems, with expertise in __identity, distributed systems, API design, and cloud services__.   
+  
+My recent work includes :
+- [LLM-enabled workflows](https://github.com/tusharpandey13/forge)
+- [OAuth systems](https://github.com/auth0/nextjs-auth0)
+- Production engineering work.
 
-Here are some ideas to get you started:
+I work at Auth0, Okta, on the [Javascript Authentication SDKs](https://auth0.com/docs/libraries).  
+Previously, I have worked at Zee5, on Distributed Systems, High-Performance APIs and Orchestrators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Pinned Repositories are the best starting point for public proof of work. *⬇️*
+
+
+**Read my blogs**:
+- [Adding Auth0 to Hono on Cloudflare Workers: A Practical Guide](https://auth0.com/blog/adding-auth0-hono-cloudflare-workers-guide/) : Talks about securing a Hono web app with modern-day OAuth practices. Directly linked to my work on `auth0-hono`
+
+LinkedIn: [linkedin.com/in/tusharpandey13](https://linkedin.com/in/tusharpandey13)  
+Email: [tusharpandey13 at gmail dot com](mailto:tusharpandey13@gmail.com)
