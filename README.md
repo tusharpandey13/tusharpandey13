@@ -1,7 +1,7 @@
 ### Tushar Pandey
 
 Software engineer.   
-I build large scale systems, with expertise in __identity, distributed systems, API design, and cloud services__.   
+I build large scale systems, with expertise in __Identity, Distributed systems, API Design, and Cloud__.   
   
 My recent work includes :
 - [LLM-enabled workflows](https://github.com/tusharpandey13/forge)
